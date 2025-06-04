@@ -1,13 +1,15 @@
 {
   "servers": [
     {
-      "id": "1368930406904102932",
-      "name": "Voidium - Beta",
-      "description": "No description set.",
-      "tags": [],
-      "invite": "https://discord.gg/RN2u6NU7UQ",
-      "iconURL": "https://cdn.discordapp.com/icons/1368930406904102932/f9b95954f503110ad8fa5a6d7c83ba54.webp?size=256",
-      "updatedAt": "2025-06-04T05:15:15.389Z"
+      "id": "1324733019038421053",
+      "name": "The Valt",
+      "description": "idk rn serer",
+      "tags": [
+        "mincraft pvp vc chat"
+      ],
+      "invite": "https://discord.gg/c663hJtF2M",
+      "iconURL": "https://cdn.discordapp.com/icons/1324733019038421053/6422ae470104f7ddd6967b21d684497d.webp?size=256",
+      "updatedAt": "2025-06-04T05:17:24.919Z"
     }
   ]
 }
