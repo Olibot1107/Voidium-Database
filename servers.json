@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "id": "123456789012345678",
+      "name": "Voidium Official",
+      "description": "The official Voidium server",
+      "members": 9000,
+      "updatedAt": "2025-06-04T04:47:16.459Z"
+    }
+  ]
+}
